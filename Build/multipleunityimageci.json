@@ -1,13 +1,3 @@
-{
-"companyName": "DefaultCompany",
-"productName": "multipleunityimageci",
-"dataUrl": "multipleunityimageci.data.unityweb",
-"wasmCodeUrl": "multipleunityimageci.wasm.code.unityweb",
-"wasmFrameworkUrl": "multipleunityimageci.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
-"webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a103f1423bef8636a4c163e9891e1cce99465b48cb60b4760014a00345d123
+size 498
